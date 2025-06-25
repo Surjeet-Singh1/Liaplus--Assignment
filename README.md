@@ -102,15 +102,6 @@ Liaplus--Assignment/
 ├── package.json
 ├── README.md
 
-📸 Screenshots
-![image](https://github.com/user-attachments/assets/36f6f6c1-925c-4b18-b2b2-86385a987e0e)
-
-🔐 Admin Login
-![image](https://github.com/user-attachments/assets/f5b693b2-4bac-4dd5-aa4b-f97303f9b0b7)
-
-📊 Dashboard
-![image](https://github.com/user-attachments/assets/b5000b65-0356-4e18-b043-aaea1ccfbbad)
-
 
 🙏 Final Note
 All required features were implemented to the best of my knowledge and time:

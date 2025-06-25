@@ -12,6 +12,24 @@ This is a full-stack user feedback collection system built using **React**, **Vi
 - MongoDB installed and running locally
 - Git installed
 
+
+##Site View:
+
+--Form:
+
+![image](https://github.com/user-attachments/assets/66152355-64c9-4b99-a2ba-310fe83e899d)
+
+--Admin Access:
+
+![image](https://github.com/user-attachments/assets/10c14ad2-5232-4657-ab26-06f3e82d29e8)
+
+--Admin DashBoard:
+
+![image](https://github.com/user-attachments/assets/b83f8a14-0f3f-4d28-a150-07543da4b174)
+
+
+
+
 ---
 
 ### 📦 Setup Instructions
